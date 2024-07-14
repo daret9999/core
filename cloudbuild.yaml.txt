@@ -1,0 +1,5 @@
+steps:
+- name: 'gcr.io/future-exchange-first-stage/github.com/daret9999/core'
+  args: ['mvn clean install']
+- name: 'gcr.io/future-exchange-first-stage/github.com/daret9999/core'
+  args: ['docker-compose up --build', '-t', 'gcr.io/future-exchange-first-stage/core', '.
