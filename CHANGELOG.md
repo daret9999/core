@@ -1,3 +1,15 @@
+# v0.0.2 (Sun Jul 14 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Add files via upload ([@daret9999](https://github.com/daret9999))
+
+#### Authors: 1
+
+- [@daret9999](https://github.com/daret9999)
+
+---
+
 # v0.0.1 (Fri Jul 05 2024)
 
 :tada: This release contains work from new contributors! :tada:
